@@ -32,7 +32,7 @@ struct ContentView: View {
                 withAnimation {
                     counter += 1
                     if counter >= 20 {
-                        message = "عيشي بلادي"
+                        message = "country Anathem 1"
                     }
                     if counter >= 30 {
                         message = "عاش اتحادنا"
